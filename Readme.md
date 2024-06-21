@@ -150,5 +150,3 @@ This project is an API for managing the inventory and suppliers of an online sto
 ---
 
 Ensure to replace placeholders like `your_secret_key`, `your_database_name`, `your_database_user`, etc., with actual values for your environment.
-
-This README file provides a comprehensive guide to setting up, configuring, running, and testing your Django project.
