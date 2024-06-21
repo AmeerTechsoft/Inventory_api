@@ -33,8 +33,8 @@ This project is an API for managing the inventory and suppliers of an online sto
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/store-management-api.git
-   cd store-management-api
+   git clone https://github.com/AmeerTechsoft/Inventory_api.git
+   cd Inventory_api
    ```
 
 2. **Create a virtual environment:**
