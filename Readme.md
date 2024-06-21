@@ -1,7 +1,3 @@
-Sure, here’s a detailed README file to set up and run your Django project:
-
----
-
 # Store Management API
 
 This project is an API for managing the inventory and suppliers of an online store. The API is built using Django and Django REST Framework.
